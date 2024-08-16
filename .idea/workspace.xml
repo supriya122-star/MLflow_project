@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35bc25da-ee04-488a-aaf9-fdb73c5671bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mlflow_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/.idea/mlflow_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/artifacts/model/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/artifacts/model/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/artifacts/model/model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/artifacts/model/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/artifacts/model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/metrics/mae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/metrics/r2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/metrics/rmse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/params/alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/params/l1_ratio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/tags/mlflow.log-model.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/df3d856c91d343098e881db06995dfbb/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/mlruns/0/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLflow_project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLflow_project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLflow_project/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLflow_project/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLflow_project/src/MLflow_project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLflow_project/src/MLflow_project/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2kZKIMa81aujUX1Z3clgda4xD3x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/vegam_projects/venvs/mlflow/Scripts"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlflow_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLflow_project/src/MLflow_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLflow_project/src/MLflow_project/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_transpose_theimbalancedata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlflow_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/code_transpose_theimbalancedata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlflow_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\vegam_projects\mlflow_project\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlflow_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLflow_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLflow_project/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlflow_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLflow_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLflow_project/template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.code_transpose_theimbalancedata" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35bc25da-ee04-488a-aaf9-fdb73c5671bc" name="Changes" comment="" />
+      <created>1723485577502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723485577502</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/code_transpose_theimbalancedata.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

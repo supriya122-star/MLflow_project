@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vegam_projects/mlflow_project/mlruns/0/484458e9d2d3453e9f664183583e0ca7/artifacts
+end_time: 1723736177922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 484458e9d2d3453e9f664183583e0ca7
+run_name: unleashed-shark-422
+run_uuid: 484458e9d2d3453e9f664183583e0ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723736175090
+status: 3
+tags: []
+user_id: Aureo

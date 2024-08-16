@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vegam_projects/mlflow_project/mlruns/0/e2cfd2a1f9f543cab49d1efb489ddd87/artifacts
+end_time: 1723736888875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2cfd2a1f9f543cab49d1efb489ddd87
+run_name: sassy-fowl-676
+run_uuid: e2cfd2a1f9f543cab49d1efb489ddd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723736885586
+status: 3
+tags: []
+user_id: Aureo
